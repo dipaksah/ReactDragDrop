@@ -1,0 +1,28 @@
+.answer :hover{
+  /* background-color: green; */
+}
+/* 
+.list :hover{
+  background-color: green;
+} */
+
+.answerBox{
+  height: max-content;
+  width: max-content;
+}
+
+.RowBox{
+  width: auto;
+  height: auto;
+  
+}
+.MainBox{
+  /* background-color: darkgray; */
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 40px;
+}
+
+.listanswer{
+  border: 2px solid black;
+}
